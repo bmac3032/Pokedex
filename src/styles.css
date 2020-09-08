@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
 body {
   text-align: center;
   background-color: #eceff1;
+  font-family: "Source Sans Pro", sans-serif;
 }
